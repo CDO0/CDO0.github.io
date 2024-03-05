@@ -1,7 +1,7 @@
-import preload_page from "src/js/preload_page.js";
-import menu from "src/js/menu.js";
-import main_scene from "src/js/main_scene.js";
-import next_level from"src/js/next_level.js";
+import preload_page from "./js/preload_page" ;
+import menu from "./js/menu.js";
+import main_scene from "./js/main_scene.js";
+import next_level from"./js/next_level.js";
 
 
 
