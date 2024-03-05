@@ -107,11 +107,11 @@ assetText.setOrigin(0.5, 0.5);
 
 
 //menu
-    this.load.image("fond_menu", "./src/assets/fond_menu.png");
-    this.load.image("imageLogo", "./src/assets/logo.png");
-    this.load.image("imageBoutonPlay", "./src/assets/jouerBtn.png");
-    this.load.image("imageCommandes", "./src/assets/commandes.png");
-    this.load.image("gouteSolo", "./src/assets/gouteSolo.png");
+    this.load.image("fond_menu", "./assets/fond_menu.png");
+    this.load.image("imageLogo", "./assets/logo.png");
+    this.load.image("imageBoutonPlay", "./assets/jouerBtn.png");
+    this.load.image("imageCommandes", "./assets/commandes.png");
+    this.load.image("gouteSolo", "./assets/gouteSolo.png");
 
 
 
